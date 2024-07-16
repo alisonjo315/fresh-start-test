@@ -1,0 +1,21 @@
+{
+	"name": "cubear/cd-events-pull-wp-plugin",
+	"description": "A wordpress plugin to pull Events into a WP custom content type.",
+	"type": "wordpress-plugin",
+	"homepage": "https://it.cornell.edu/custom-web",
+	"authors": [
+	  {
+		"name": "Philip Williammee",
+		"email": "philwilliammee@gmail.com",
+		"role": "Author"
+	  }
+	],
+	"support": {
+
+	},
+	"license": "GPL-2.0-or-later",
+	"minimum-stability": "dev",
+	"require": {
+
+	}
+  }
